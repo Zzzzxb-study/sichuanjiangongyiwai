@@ -1,0 +1,27 @@
+# 依赖目录
+node_modules/
+vendor/
+.venv/
+
+# 构建产物
+dist/
+build/
+out/
+.next/
+
+# 日志与临时文件
+*.log
+.cache/
+tmp/
+
+# 媒体与二进制文件
+*.png
+*.jpg
+*.mp4
+*.exe
+*.pdf
+
+# 隐藏目录
+.git/
+.idea/
+.vscode/
